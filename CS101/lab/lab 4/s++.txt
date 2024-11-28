@@ -1,0 +1,1 @@
+function s++ { mingw32-g++ -std=c++11 $args -lsprite -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 }
